@@ -7,7 +7,7 @@ My aim is to work professionally as a Data Scientist
 Immediate aim is to learn powerBI and brush up on SQL
 
 ## 🛠 Skills
-R,HTML,CSS,Python,Mathematica
+R, HTML, CSS, Python, Mathematica
 
 
 ## 🔗 Links
