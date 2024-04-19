@@ -3,6 +3,7 @@
 
 
 My aim is to work professionally as a Data Analyst / Software Engineer
+
 Immediate aim is to learn Bulma and brush up on Pytorch
 
 ## 🛠 Skills
