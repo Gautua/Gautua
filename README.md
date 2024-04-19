@@ -1,10 +1,9 @@
 
 # Hi, I'm Gutam Malhotra!👋
 
-Currently as Masters Student at UCD
 
-My aim is to work professionally as a Data Scientist
-Immediate aim is to learn powerBI and brush up on SQL
+My aim is to work professionally as a Data Analyst / Software Engineer
+Immediate aim is to learn Bulma and brush up on Pytorch
 
 ## 🛠 Skills
 R, HTML, CSS, Python, Mathematica
