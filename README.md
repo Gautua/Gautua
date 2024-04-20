@@ -7,7 +7,7 @@ My aim is to work professionally as a Data Analyst / Software Engineer
 Immediate aim is to learn Bulma and brush up on Pytorch
 
 ## 🛠 Skills
-R, HTML, CSS, Python, Mathematica
+R, HTML, CSS, Python, PHP, JavaScript, RestAPIs
 
 
 ## 🔗 Links
@@ -15,10 +15,8 @@ R, HTML, CSS, Python, Mathematica
 
 ## Other
 
-👩‍💻 I'm currently working on a Play Analysis of LaLiga Teams using Python
+👩‍💻 I'm currently tweaking with NVIDIA's new locally running LLM
 
-🧠 I'm currently learning SAS and C++
-
-🤔 I'm looking for help with PowerBI and SQL
+🧠 I'm currently learning Bulma and Angular
 
 😄 Pronouns He/Him
